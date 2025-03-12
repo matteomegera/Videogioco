@@ -2,14 +2,14 @@
 #include "Guerriero.h"
 #include "Mago.h"
 #include "Gestore.h"
-//provaaaaa
-//aa
-//aa
-//
+//provaaaaa2222
+//aa222222
+//aa22
+//222
 //a
+//a2222
 //a
-//a
-//a
+//a222
 using namespace std;
 
 int main() {
